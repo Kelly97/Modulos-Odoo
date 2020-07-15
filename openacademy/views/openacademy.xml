@@ -79,8 +79,6 @@
         <menuitem id="courses_menu" name="Courses" parent="openacademy_menu"
                   action="openacademy.course_list_action"/>
 
-        <menuitem id="sesions_menu" name="Sessions" parent="openacademy_menu"
-                  action="openacademy.session_list_action"/>
 
         <!-- Full id location:
              action="openacademy.course_list_action"
